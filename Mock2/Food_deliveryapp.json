@@ -13,7 +13,7 @@
       "type": "http",
       "documentation": "",
       "method": "get",
-      "endpoint": "location",
+      "endpoint": "localData",
       "responses": [
         {
           "uuid": "5cce9b92-63ec-4a9d-9d6c-d90c5cd551af",
